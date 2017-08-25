@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jtroya/authServer.git"
+  },
   "author": "Jorge Troya",
   "license": "MIT",
   "dependencies": {
